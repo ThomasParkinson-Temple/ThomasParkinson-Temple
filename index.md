@@ -7,7 +7,7 @@ nav_order: 1
 
 Hi! I’m **Tom Parkinson**, a clerk typist for the Commonwealth of PA as well as a student studying GIS.
 
-Use the links on the left (or top, depending on theme) to explore:
+Use the links below to explore:
 
 - [About Me](about.md)
 - [Projects](projects.md)
