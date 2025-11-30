@@ -5,7 +5,7 @@ nav_order: 2
 
 # About Me
 
-I’m a geographer and educator passionate about mapping, cities, and design.
+I’m a a current grad student at Temple University interested in Geography, Urban Studies, and GIS.
 
-- **Current role:** Professor of Urban Spatial Design in Japan  
-- **Interests:** Web mapping, spatial analysis, and creative geography 
+- **Current role:** Clerk Typist 2 for the Commonwealth of Pennsylvania  
+- **Interests:** GIS, geography, Urban Planning 
