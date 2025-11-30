@@ -8,5 +8,5 @@ nav_order: 4
 You can reach me at:
 
 - 📧 thomas.parkinson0001@temple.edu  
-- 🌐 [GitHub](https://github.com/yourusername)  
+- 🌐 [GitHub](https://github.com/ThomasParkinson-Temple)  
 - 📍 Based in Philadelphia  
