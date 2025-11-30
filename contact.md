@@ -7,6 +7,6 @@ nav_order: 4
 
 You can reach me at:
 
-- 📧 yourname@gmail.com  
+- 📧 thomas.parkinson0001@temple.edu  
 - 🌐 [GitHub](https://github.com/yourusername)  
-- 📍 Based in Japan  
+- 📍 Based in Philadelphia  
