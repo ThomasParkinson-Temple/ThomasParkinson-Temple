@@ -13,3 +13,6 @@ Here are some of my favorite works:
 |  |  |  |
 
 <img src="Airbnb%20Density%20Map.png" alt="Airbnb Density Map">
+
+
+<img src="Flint%20Map.png" alt="Flint Map">
