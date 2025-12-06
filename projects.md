@@ -5,12 +5,8 @@ nav_order: 3
 
 # Projects
 
-Here are some of my favorite works:
+Below are some of my favorite maps from this semester:
 
-| Year | Project | Description |
-|------|----------|--------------|
-|  |  |  |
-|  |  |  |
 
 <img src="Airbnb%20Density%20Map.png" alt="Airbnb Density Map">
 
