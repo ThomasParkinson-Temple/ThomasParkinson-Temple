@@ -16,3 +16,6 @@ Here are some of my favorite works:
 
 
 <img src="Flint%20Map.png" alt="Flint Map">
+
+
+<img src="Miami%20Vacant%20Houses%20Map.png" alt="Miami Vacant Houses Map">
