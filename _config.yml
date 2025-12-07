@@ -25,6 +25,3 @@ nav:
 color_scheme: light
 logo: /assets/logo.png
 search_enabled: true
-
-kramdown:
-  input: GFM
