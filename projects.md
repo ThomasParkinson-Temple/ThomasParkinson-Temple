@@ -7,6 +7,8 @@ nav_order: 3
 
    🌐 **Below are some of my favorite maps from this semester!** 🗺️
 
+<div style="text-align: center;">This sentence is centered.</div>
+
 <img src="Airbnb%20Density%20Map.png" alt="Airbnb Density Map">
 
 This map was from our 4th lab where we had to figure out the relationship between police
