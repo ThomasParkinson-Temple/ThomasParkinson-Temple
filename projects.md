@@ -7,7 +7,7 @@ nav_order: 3
 
    🌐 **Below are some of my favorite maps from this semester!** 🗺️
 
-<div style="text-align: center;">This sentence is centered.</div>
+<div style="text-align: center;">🌐 **Below are some of my favorite maps from this semester!** �</div>
 
 <img src="Airbnb%20Density%20Map.png" alt="Airbnb Density Map">
 
