@@ -16,13 +16,9 @@ which I was then able to join into the police districts data. After which I was
 able to calculate the density of homicides and Airbnb Reviews for each police
 district
 
-body .fancy-divider {
-  width: 50%;
-  height: 4px;
-  margin: 50px auto;
-  background: linear-gradient(to right, #f06, #4a90e2);
-  border-radius: 2px;
-}
+<p style="text-align: center; margin: 50px 0;">
+  <span style="display: block; width: 50%; height: 4px; margin: 0 auto; background: linear-gradient(to right, #f06, #4a90e2); border-radius: 2px;"></span>
+</p>
 
 <img src="Flint%20Map.png" alt="Flint Map">
 
