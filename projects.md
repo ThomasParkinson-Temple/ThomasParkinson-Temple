@@ -21,6 +21,7 @@ district
 </p>
 
 <img src="Flint%20Map.png" alt="Flint Map">
+This was the map for the 3rd Mastery Assignment. For this assignment we had to create a map with data from the University of Michigan on which nieghborhooods of Flint were  most affected by toxic drinking water. To accomplish this we used the buffer and intersect functions that we had learned the previous week. Using these functions we were able to gather the areas of Flint that met the criteria set in assingment for possible water toxicity.
 
 <p style="text-align: center; margin: 50px 0;">
   <span style="display: block; width: 50%; height: 4px; margin: 0 auto; background: linear-gradient(to right, #f06, #4a90e2); border-radius: 2px;"></span>
