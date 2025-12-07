@@ -22,5 +22,8 @@ district
 
 <img src="Flint%20Map.png" alt="Flint Map">
 
+<p style="text-align: center; margin: 50px 0;">
+  <span style="display: block; width: 50%; height: 4px; margin: 0 auto; background: linear-gradient(to right, #f06, #4a90e2); border-radius: 2px;"></span>
+</p>
 
 <img src="Miami%20Vacant%20Houses%20Map.png" alt="Miami Vacant Houses Map">
